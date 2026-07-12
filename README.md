@@ -31,9 +31,9 @@ This repository contains SQL assignment solutions completed using PostgreSQL. Th
 - PostgreSQL
 - pgAdmin 4
 
-## Files Included
+## File Included
 
-
+Assignment sql2.sql
 
 ## Skills Demonstrated
 
